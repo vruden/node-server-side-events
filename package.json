@@ -1,0 +1,24 @@
+{
+  "name": "node-server-side-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vruden/node-server-side-events.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vruden/node-server-side-events/issues"
+  },
+  "homepage": "https://github.com/vruden/node-server-side-events#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
